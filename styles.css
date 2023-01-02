@@ -1,0 +1,36 @@
+
+.body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+
+.card{
+    margin: 152px auto;
+    width: 320px;
+    height: 496px;
+    border-radius: 15px;
+}
+.card-img-top{
+    margin: 20px;
+    width: 280px;
+    border-radius: 10px;
+}
+.heading{
+    margin: 0 20px;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+.paragraph{
+    margin: 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.attribution{
+    position: absolute;
+    top: 95%;
+    left: 20px;
+}
